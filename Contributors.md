@@ -30,6 +30,7 @@
 - [Tanmai Kalisipudi](https://github.com/tanmaik)
 - [Abdullah Al MahMud](https://github.com/AbdullahWins)
 - [Norvillie Villaruel](https://github.com/nozky)
+- [Manjunatha Gowda](https://github.com/manjubluemoon)
 - [Prerna Singh](https://github.com/PrernaSingh01)
 - [Soy Eric](https://github.com/ibrahimeric)
 - [Mandeep Singhmar](https://github.com/Mandeepsinghmar)
